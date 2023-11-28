@@ -1,0 +1,18 @@
+{
+    "bakers": [
+        {
+            "workExperience": 1
+        },
+        {
+            "workExperience": 7
+        }
+    ],
+    "couriers": [
+        {
+            "trunkSize": 3
+        },
+        {
+            "trunkSize": 2
+        }
+    ]
+}
