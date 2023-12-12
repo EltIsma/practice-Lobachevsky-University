@@ -1,0 +1,6 @@
+TestProject2.FigureTests.TestFigureName
+TestProject2.FigureTests.TestFigurePrint
+TestProject2.TriangleColorTests.TestTriangleColorAreaCalculation
+TestProject2.TriangleColorTests.TestTriangleColorPrint
+TestProject2.TriangleTests.TestTriangleAreaCalculation
+TestProject2.TriangleTests.TestTrianglePrint

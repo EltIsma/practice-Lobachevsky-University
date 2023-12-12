@@ -1,0 +1,4 @@
+TestProject1.UnitTest1.TestClone
+TestProject1.UnitTest1.TestEquals
+TestProject1.UnitTest1.TestRandom
+TestProject1.UnitTest1.TestToString
